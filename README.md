@@ -1,7 +1,7 @@
 # widget-feedback
 
 # Projeto
-O projeto desenvolvido é uma aplicação para coleta de feedbacks que pode ser adicionado em qualquer ambiente mobile ou web.
+O projeto desenvolvido é uma aplicação para coleta de feedbacks que pode ser adicionado em qualquer site web.
 
 # Tecnologias:
 
