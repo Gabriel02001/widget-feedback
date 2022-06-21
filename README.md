@@ -6,8 +6,8 @@ O projeto desenvolvido é uma aplicação para coleta de feedbacks que pode ser 
 # Tecnologias:
 
 Principais:
-React
-React Native
+* React
+* React Native
 NodeJs
 SQLite
 Prisma
