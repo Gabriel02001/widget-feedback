@@ -6,20 +6,23 @@ O projeto desenvolvido é uma aplicação para coleta de feedbacks que pode ser 
 # Tecnologias:
 
 Principais:
+
 * React
 * React Native
-NodeJs
-SQLite
-Prisma
+* NodeJs
+* SQLite
+* Prisma
 
 Secunderias:
-Typescript
-Tailwind CSS
-Headless UI (Componentes com acessibilidade)
-Phosphor icon
-Insomnia(Testes de rotas)
-Jest(Teste unitários)
-Axios(Biblioteca/API para lidar com req HTTP)
+
+* Typescript
+* Tailwind CSS
+* Headless UI (Componentes com acessibilidade)
+* Phosphor icon
+* Insomnia(Testes de rotas)
+* Jest(Teste unitários)
+* Axios(Biblioteca/API para lidar com req HTTP)
+
 Serviços:
 
-mailtrap.io(Envio de email em ambiente de desenvolvimento e produção) + nodemailer
+* mailtrap.io(Envio de email em ambiente de desenvolvimento e produção) + nodemailer
