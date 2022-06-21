@@ -8,7 +8,6 @@ O projeto desenvolvido é uma aplicação para coleta de feedbacks que pode ser 
 Principais:
 
 * React
-* React Native
 * NodeJs
 * SQLite
 * Prisma
