@@ -1,0 +1,21 @@
+// // {
+// //   "compilerOptions": {
+// //     "composite": true,
+// //     "module": "esnext",
+// //     "moduleResolution": "node"
+// //   },
+// //   "include": ["vite.config.ts"]
+// // }
+{
+  "compilerOptions": {
+    "target": "EsNext",
+    "useDefineForClassFields": true,
+    "lib":["DOM", "DOM.Iterable", "ESNext"],
+    "composite": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "module": "esnext",
+    "moduleResolution": "node"
+  },
+  "include": ["vite.config.ts"]
+}
